@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">My City</string>
+    <string name="categories_list">My City</string>
+    <string name="places_list">Category</string>
+    <string name="places_detail">Place</string>
+    <string name="back_button">Back</string>
+
+    <string name="cafes">Cafes/restaurants</string>
+    <string name="cinemas">Cinemas</string>
+    <string name="parks">Parks</string>
+    <string name="attractions">Attractions</string>
+
+    <string name="biblioteca">Biblioteca</string>
+    <string name="khachapuriya">Khachapuriya</string>
+    <string name="samurai">Samurai</string>
+    <string name="tanuki">Tanuki</string>
+
+    <string name="arlekino">Arlekino</string>
+    <string name="cinema_park">Cinema Park</string>
+    <string name="dreams_empire">Empire of Dreams</string>
+    <string name="record">Record</string>
+
+    <string name="switzerland">Switzerland</string>
+    <string name="park_kulibin">Park n.a. Kulibin</string>
+    <string name="park_pushkin">Park n.a. Pushkin</string>
+    <string name="victory_park">Park of Victory</string>
+
+    <string name="tsekh">Tsekh</string>
+    <string name="ferris_wheel">Ferris Wheel</string>
+    <string name="cable_car">Cable Car</string>
+    <string name="water_park">Oceanis</string>
+
+    <string name="biblioteca_address">Bolshaya Pokrovskaya st, 46</string>
+    <string name="khachapuriya_address">Bolshaya Pokrovskaya st, 49</string>
+    <string name="samurai_address">Bolshaya Pokrovskaya st, 63</string>
+    <string name="tanuki_address">Gorkogo square, 5/76</string>
+
+    <string name="dreams_empire_address">Bolshaya Pokrovskaya st, 82</string>
+    <string name="arlekino_address">Sovetskaya square, 5</string>
+    <string name="cinema_park_address">Rodionova st, 187B</string>
+    <string name="record_address">Piskunova st, 11</string>
+
+    <string name="switzerland_address">Bus stop Aquapark</string>
+    <string name="park_kulibin_address">Bus stop Park n.a. Kulibin</string>
+    <string name="park_pushkin_address">Bus stop Studenaya</string>
+    <string name="victory_park_address">Bus stop Park of Victory</string>
+
+    <string name="ferris_wheel_address">Sennaya square, 2</string>
+    <string name="tsekh_address">Varvarskaya st, 32</string>
+    <string name="cable_car_address">Bus stop Kanatnaya doroga</string>
+    <string name="water_park_address">Gagarina avenue, 35/1</string>
+
+    <string name="biblioteca_phone">+7 (831) 433-69-34</string>
+    <string name="biblioteca_schedule">Mon-Sun 11:00-22:00</string>
+    <string name="biblioteca_average_bill">₽600</string>
+
+    <string name="khachapuriya_phone">+7 (831) 423-84-02</string>
+    <string name="khachapuriya_schedule">Mon-Thu 12:00-22:00, Fri-Sat 12:00-00:00, Sun 12:00-22:00</string>
+    <string name="khachapuriya_average_bill">₽900</string>
+
+    <string name="samurai_phone">+7 (831) 424-41-10</string>
+    <string name="samurai_schedule">Mon-Thu 11:00-23:00, Fri 11:00-00:00, Sat 12:00-00:00, Sun 12:00-23:00</string>
+    <string name="samurai_average_bill">₽750</string>
+
+    <string name="tanuki_phone">+7 (831) 261-33-66</string>
+    <string name="tanuki_schedule">Mon-Sun 11:30-00:00</string>
+    <string name="tanuki_average_bill">₽500</string>
+
+    <string name="arlekino_phone">+7 (831) 202-98-98</string>
+    <string name="arlekino_schedule">Mon-Sun 10:00-23:00</string>
+    <string name="arlekino_average_bill">₽400</string>
+
+    <string name="cinema_park_phone">+7 (831) 200-05-26</string>
+    <string name="cinema_park_schedule">Mon-Thu, Sun 10:00-01:00, Fri-Sat 10:00-01:30</string>
+    <string name="cinema_park_average_bill">₽500</string>
+
+    <string name="dreams_empire_phone">+7 (951) 902-61-58</string>
+    <string name="dreams_empire_schedule">Mon-Sun 10:00-21:00</string>
+    <string name="dreams_empire_average_bill">₽450</string>
+
+    <string name="record_phone">+7 (831) 437-36-57</string>
+    <string name="record_schedule">Mon-Sun 10:00-20:00</string>
+    <string name="record_average_bill">₽600</string>
+
+    <string name="switzerland_phone">+7 (831) 282-63-00</string>
+    <string name="switzerland_schedule">Mon-Sun 05:00-22:00</string>
+    <string name="switzerland_average_bill">₽0</string>
+
+    <string name="park_kulibin_phone">-</string>
+    <string name="park_kulibin_schedule">24 hours/week</string>
+    <string name="park_kulibin_average_bill">₽0</string>
+
+    <string name="park_pushkin_phone">-</string>
+    <string name="park_pushkin_schedule">24 hours/week</string>
+    <string name="park_pushkin_average_bill">₽0</string>
+
+    <string name="victory_park_phone">+7 (831) 432-22-50</string>
+    <string name="victory_park_schedule">Mon-Sun 9:00-21:00</string>
+    <string name="victory_park_average_bill">₽0</string>
+
+    <string name="ferris_wheel_phone">+7 (993) 993-92-67</string>
+    <string name="ferris_wheel_schedule">Mon-Sun 10:00-21:00</string>
+    <string name="ferris_wheel_average_bill">₽300</string>
+
+    <string name="tsekh_phone">+7 (920) 252-37-63</string>
+    <string name="tsekh_schedule">Mon-Sun 12:00-22:00</string>
+    <string name="tsekh_average_bill">₽500</string>
+
+    <string name="cable_car_phone">-</string>
+    <string name="cable_car_schedule">Mon-Sat 6:45-22:00, Sun 9:00-22:00</string>
+    <string name="cable_car_average_bill">₽100</string>
+
+    <string name="water_park_phone">+7 (831) 283-18-31</string>
+    <string name="water_park_schedule">Mon-Sun 10:00-22:00</string>
+    <string name="water_park_average_bill">₽1500</string>
+
+
+    <string name="main_screen1">Nizhny Novgorod, colloquially shortened to Nizhny,
+        is the administrative centre of Nizhny Novgorod Oblast
+        and the Volga Federal District in Russia.
+        The city is located at the confluence of the Oka and the Volga
+        rivers in Central Russia, with a population of over 1.2 million residents.</string>
+
+    <string name="main_screen2">The city was founded on 4 February 1221 by
+        Prince George II of Vladimir. In 1612, Kuzma Minin
+        and Prince Dmitry Pozharsky organized an army for the
+        liberation of Moscow and all Russia from the Poles and Lithuanians.
+        In 1817, Nizhny Novgorod became a great trade center of the Russian Empire.</string>
+
+    <string name="main_screen3">The city was founded on 4 February 1221 by Prince George II of Vladimir.
+    In 1612, Kuzma Minin and Prince Dmitry Pozharsky organized an army for the
+    liberation of Moscow and all Russia from the Poles and Lithuanians.
+        In 1817, Nizhny Novgorod became a great trade center of the Russian Empire.</string>
+
+    <string name="welcome">Welcome to Nizhny Novgorod!</string>
+
+
+</resources>
